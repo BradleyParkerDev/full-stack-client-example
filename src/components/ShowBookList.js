@@ -8,7 +8,6 @@ import { useState, useEffect } from 'react';
 
 const REACT_BACKEND = process.env.REACT_APP_ENDPOINT;
 
-
 function ShowBookList(props){
 
   // setup hook
